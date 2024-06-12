@@ -1,2 +1,2 @@
 Frase=input("Olá, me diga uma frase")
-print (f'A quantidade de letras é {len(Frase)}')
+print (f'A quantidade de caracteres da sua frase é {len(Frase)}')
