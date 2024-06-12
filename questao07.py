@@ -5,6 +5,6 @@ nota2=int(input("Qual foi a sua outra nota:"))
 media=(nota1+nota2)/2
 if media>=6:
     situação="Aprovado(a)"
-if media<=6:
+else:
     situação="Reprovado(a)"
 print(f'{nome}, você está {situação} na disciplina de {matéria}')
